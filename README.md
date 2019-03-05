@@ -23,4 +23,7 @@ npm run build
 # build for production and view the bundle analyzer report
 
 #运行图片
+![Image text](https://raw.github.com/wuxh123/gps/master/img/3.jpg)
+![Image text](https://raw.github.com/wuxh123/gps/master/img/4.jpg)
+![Image text](https://raw.github.com/wuxh123/gps/master/img/2.jpg)
 ![Image text](https://raw.github.com/wuxh123/gps/master/img/1.jpg)
