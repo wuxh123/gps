@@ -1,0 +1,8 @@
+var DEV_TYPE={}
+DEV_TYPE.GPS=0
+DEV_TYPE.WATCH=1
+DEV_TYPE.PET=2
+
+export default{
+    DEV_TYPE
+}
