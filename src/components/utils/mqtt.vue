@@ -14,11 +14,11 @@
     name: 'mqttws',
     data() {
       return {
-        hostname: '47.105.110.183',
+        hostname: '',
         port: 63623,
         clientId: '',
         userName: 'admin',
-        password: '123456aa??',
+        password: '',
         timeout: 5,
         keepAlive: 50,
         cleanSession: false,
