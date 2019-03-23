@@ -10,6 +10,7 @@
 #### vue-bus
 #### vue-lazyload
 #### vue-router
+#### mock
 
 # install dependencies
 npm install
